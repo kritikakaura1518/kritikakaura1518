@@ -1,6 +1,6 @@
-  <b> Hi, I’m kritika </b>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+  ## Hi, I’m kritika 👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
   
-<b> I'm a student, Undergraduate and Developer....</b>
+## I'm a student, Undergraduate and Developer....
  <hr>
   
 - 💻 Primary Coding Language : Java
