@@ -1,4 +1,4 @@
-   ** Hi, I’m kritika 👩🏻‍💻👋🏻**
+   Hi, I’m kritika 👩💻👋🏻
 
 - 💻 Primary Coding Language - Java
 - 🌱 I’m currently learning full stack development
