@@ -32,7 +32,7 @@
   <center>
 <a href="https://www.linkedin.com/in/kritika-kaura-333993201/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="mailto:kritikakaura1518@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-<a href="https://www.instagram.com/_kritika1518/" target="_blank"><img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
+<a href="https://www.instagram.com/_kritika1518/" target="_blank"><img height="30" src = "https://img.shields.io/badge/instagram-036be4.svg?&style=for-the-badge&logo=instagram&logoColor=red"></a> &nbsp;
   </center>
    
 
