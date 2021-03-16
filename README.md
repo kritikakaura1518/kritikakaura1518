@@ -22,6 +22,10 @@
     <br>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kritikakaura1518&show_icons=true&theme=gotham" alt="Kritika | Stats" />
   <br>
+  <br>
+  <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kritikakaura1518&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
+   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kritikakaura1518&" alt="kritika"  width="400px" height="190px" />
+  </div>
   
    
 
