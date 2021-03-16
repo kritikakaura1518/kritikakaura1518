@@ -1,4 +1,4 @@
-  <b> Hi, I’m kritika </b>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+  <div style="font-size:30px"><b> Hi, I’m kritika </b></div>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
   
 <b> I'm a student, Undergraduate and Developer....</b>
  <hr>
