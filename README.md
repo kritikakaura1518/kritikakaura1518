@@ -9,7 +9,7 @@
 
 Connect with me :
   
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!---
 kritikakaura1518/kritikakaura1518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
