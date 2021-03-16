@@ -1,7 +1,9 @@
-- 👋 Hi, I’m kritika 
-- 👀 Primary Coding Language - Java
+    Hi, I’m kritika 👩🏻‍💻👋🏻
+
+- 💻 Primary Coding Language - Java
 - 🌱 I’m currently learning full stack development
-- 💞️ Pronouns - She/her
+- ✅ Looking forward for opportunities
+- 😄 Pronouns - She/her
 
 <!---
 kritikakaura1518/kritikakaura1518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
