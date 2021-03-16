@@ -8,7 +8,7 @@
 - ✅ 2021 Goals : Contribute to open source projects
 - 😄 Pronouns : She/her
 <br>
-<p style="font-size:50px"><b>Technologies and Tools : </b></p>
+<b>Technologies and Tools : </b>
 <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png " height="45px" width="45px" style="border:5px solid pink">
 
