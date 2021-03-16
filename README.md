@@ -1,6 +1,6 @@
- <p font="14px"<b> Hi, I’m kritika </b></p>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+ <p font="10px"<b> Hi, I’m kritika </b></p>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
   
-<p font="14px"<b> I'm a student, Undergraduate and Developer....</b></P>
+<p font="10px"<b> I'm a student, Undergraduate and Developer....</b></P>
  <hr>
   
 - 💻 Primary Coding Language : Java
