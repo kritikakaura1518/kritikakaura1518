@@ -1,6 +1,6 @@
-   Hi, I’m kritika 👩💻👋🏻
-   I'm a student, Undergraduate and Developer...
-
+  Hi, I’m kritika 👩💻👋🏻 
+  I'm a student, Undergraduate and Developer...
+  
 - 💻 Primary Coding Language : Java
 - 🌱 I’m currently learning full stack development
 - 2021 Goals : Contribute to open source projects
