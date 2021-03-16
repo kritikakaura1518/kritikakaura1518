@@ -8,7 +8,7 @@
 - ✅ 2021 Goals : Contribute to open source projects
 - 😄 Pronouns : She/her
 <br>
-<b style="text-decoration:underline;">Technologies and Tools : </b>
+<p style="text-decoration:underline;"><b>Technologies and Tools : </b></p>
 <br>
 <br>
 <table>
