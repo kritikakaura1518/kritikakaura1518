@@ -8,10 +8,10 @@
 - ✅ 2021 Goals : Contribute to open source projects
 - 😄 Pronouns : She/her
 <br>
-<b>Technologies and Tools : </b>
+<b style="text-decoration:underline;">Technologies and Tools : </b>
 <br>
 <br>
-<table border="none">
+<table>
   <tr>
     <td>
 <<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png " height="50px" width="50px" ></td>
@@ -27,18 +27,7 @@
   </table>
   <br>
   <br>
-  You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
-
+  
 
 
 
