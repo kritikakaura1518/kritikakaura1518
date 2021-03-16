@@ -1,4 +1,4 @@
-  Hi, I’m kritika 👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+  Hi, I’m kritika 👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
   
   I'm a student, Undergraduate and Developer...
   
