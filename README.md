@@ -1,4 +1,4 @@
-  ## Hi, I’m kritika 👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  ## Hi, I’m kritika 👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px">
   
 ## I'm a student, Undergraduate and Developer....
  <hr>
@@ -21,7 +21,11 @@
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code>
     <br><br>
-    
+    <b>Profile Views:-</b>
+<br>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{kritikakaura1518}/count.svg)
+  <br>
   
 
 
