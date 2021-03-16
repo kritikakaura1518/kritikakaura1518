@@ -1,4 +1,4 @@
- <p style="font-size:50px"> <b> Hi, I’m kritika </b></p>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+ <p style="font-size:30px"> <b> Hi, I’m kritika </b></p>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
   
 <b> I'm a student, Undergraduate and Developer....</b>
  <hr>
