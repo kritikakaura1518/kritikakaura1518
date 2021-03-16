@@ -1,4 +1,4 @@
-  <div style="font-size:30px"><b> Hi, I’m kritika </b></div>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+  <b> Hi, I’m kritika </b>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
   
 <b> I'm a student, Undergraduate and Developer....</b>
  <hr>
@@ -9,6 +9,8 @@
 - 😄 Pronouns : She/her
 <br>
 <b>Technologies and Tools : </b>
+<br>
+<br>
 <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png " height="45px" width="45px" style="border:5px solid pink">
 
