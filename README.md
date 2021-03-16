@@ -24,7 +24,7 @@
   <br>
   <br>
   
-  <h2 style="text-decoration:none;">Where to find me 👩: </h2>
+  <h2>Where to find me 👩: </h2>
   <center>
 <a href="https://www.linkedin.com/in/kritika-kaura-333993201/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="mailto:kritikakaura1518@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
