@@ -1,4 +1,4 @@
-  <b> Hi, I’m kritika </b>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+ <p style="font-size;50px"> <b> Hi, I’m kritika </b></p>👩🏻‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
   
 <b> I'm a student, Undergraduate and Developer....</b>
  <hr>
@@ -8,7 +8,7 @@
 - ✅ 2021 Goals : Contribute to open source projects
 - 😄 Pronouns : She/her
 <br>
-<b><p style="font-size:30px">Technologies and Tools : </b></p>
+<p style="font-size:50px"><b>Technologies and Tools : </b></p>
 <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png " height="45px" width="45px" style="border:5px solid pink">
 
