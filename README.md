@@ -5,7 +5,6 @@
   
 - 💻 Primary Coding Language : Java
 - 🌱 I’m currently learning full stack development
-- ✅ 2021 Goals : Contribute to open source projects
 - 😄 Pronouns : She/her
 <br>
 <h2>Technologies and Tools 🔨: </h2>
